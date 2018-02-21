@@ -17,9 +17,10 @@
 > In Developers Italia, sezione SPID, sono presenti le versioni non ufficiali e consolidate di regolamenti attuativi, regole tecniche oltre che guide e risorse applicative ufficiali SPID manutenute da AgID.
 
 
-Il servizio di helpdesk è stato spostato su Github per permettere la condivisione delle soluzioni e discussioni tecniche e consentire alla community di cooperare.<br>
-Per utilizzare il supporto tecnico SPID potete fare riferimento alla **[guida utenti](https://github.com/italia/spid/blob/master/HOWTO.md)**<br>
-Le persone che rispondono per conto di AgID - Agenzia per l'Italia Digitale sono:
+## Supporto Tecnico SPID
+
+Il servizio di supporto tecnico SPID è stato spostato su Github per permettere la condivisione delle soluzioni e discussioni tecniche e consentire alla community di cooperare.<br>
+Per utilizzare il supporto tecnico SPID potete fare riferimento alla **[guida utenti](https://github.com/italia/spid/blob/master/HOWTO.md)**. Le persone che rispondono per conto di AgID - Agenzia per l'Italia Digitale sono:
 
 <table>
 	<tr>
@@ -41,5 +42,4 @@ Le persone che rispondono per conto di AgID - Agenzia per l'Italia Digitale sono
 </table>
 
 ## Importante
-Per favore, **non inserire dati ritenuti sensibili** e **nessun dato relativo a configurazioni di sicurezza, quali certificati o password.**<br>
-Se devi inviarci un tracciato con dati sensibili invialo per email a [supporto.tecnico.spid@agid.gov.it](mailto:supporto.tecnico.spid@agid.gov.it)
+Per favore, **non inserire dati ritenuti sensibili e nessun dato relativo a configurazioni di sicurezza, quali certificati o password...**; se devi inviare un tracciato con dati sensibili invialo per email a [supporto.tecnico.spid@agid.gov.it](mailto:supporto.tecnico.spid@agid.gov.it)
