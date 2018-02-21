@@ -5,4 +5,4 @@
 ### Accesso o registrazione
 
 Per inserire una richiesta di supporto o segnalazione è necessario accedere o registrarsi a GitHub collegandosi alla pagina [https://github.com/join?source=login](https://github.com/join?source=login).
-<img src="https://github.com/italia/spid/assets/images/howto/spid-howto-img01.png" alt="" data-canonical-src="https://github.com/italia/spid/assets/images/howto/spid-howto-img01.png" width="70%" />
+<img src="https://github.com/italia/spid/blob/master/assets/images/howto/spid-howto-img01.png" alt="" data-canonical-src="https://github.com/italia/spid/blob/master/assets/images/howto/spid-howto-img01.png" width="70%" />
