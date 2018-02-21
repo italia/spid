@@ -6,13 +6,31 @@ Questo strumento è messo a disposizione per il supporto tecnico, di segnalazion
 
 Netiquette:
 - cerca tra le segnalazioni (issue) aperte o chiuse se il tuo quesito è già stato gestito in precedenza;
-- evitare ogni riferimento a dati sensibili o informazioni personali;
-- evitare ogni riferimento a configurazioni di sicurezza, password, certificati;
-- sottoporre domande generali che siano di interesse per tutti i soggetti interessati;
-- non fornire informazioni errate, imprecise, incomplete, ambigue o obsolete. In caso di dubbio, verificarle prima;
-- tratta gli altri utenti come vorresti essere trattata/o, possibilmente con gentilezza e pazienza;
+- evita ogni riferimento a dati sensibili o informazioni personali e comunicale a supporto.tecnico.spid@agid.gov.it;
+- evita ogni riferimento a configurazioni di sicurezza, password, certificati;
+- non fornire informazioni errate, imprecise, incomplete, ambigue o obsolete. In caso di dubbio, verificale prima;
+- tratta gli altri utenti come vorresti essere trattata/o, con rispetto, gentilezza e pazienza;
 - non incitare o fornire informazioni su attività illegali, immorali o pericolose per chi le fa e per gli altri.
 - non essere intollerante nei confronti di chi commette errori, specie quelli di tipo linguistico o legati all'uso degli strumenti digitali. Se le circostanze lo consentono, fai notare gli errori, non con toni di rimprovero ma con educazione, al solo scopo di aiutare;
-- non usare questo sistema per i tuoi scopi commerciali.
+- non usare questo sistema per scopi di promozione commerciale.
 
-I soggetti deputati alla gestione del sistema di supporto si riservano di segnalare i contenuti inappropriati.
+I soggetti deputati alla gestione del sistema di supporto si riservano di segnalare i contenuti inappropriati e possono essere contattati per:
+
+<table>
+	<tr>
+		<td><img src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" alt="Stefano Arbia" data-canonical-src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" /></td>
+		<td><b>Stefano Arbia (<i>arbiastefano</i>)</b><br>Responsabile progetto SPID<br>email: arbia@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
+	</tr>
+	<tr>
+		<td><img src="https://avatars2.githubusercontent.com/u/4085151?s=64&v=4" alt="Umberto Rosini" data-canonical-src="https://avatars2.githubusercontent.com/u/4085151?s=64&v=4" /></td>
+		<td><b>Umberto Rosini (<i>umbros</i>)</b><br>Responsabile tecnico progetto SPID<br>email: rosini@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
+	</tr>
+	<tr>
+		<td><img src="https://avatars1.githubusercontent.com/u/3876198?s=64&v=4" alt="Antonio Giovanni Schiavone" data-canonical-src="https://avatars1.githubusercontent.com/u/3876198?s=64&v=4" /></td>
+		<td><b>Antonio Giovanni Schiavone (<i>antoniogiovannischiavone</i>)</b><br>email: antoniogiovanni.schiavone@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
+	</tr>
+	<tr>
+		<td><img src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" alt="Michele D'Amico" data-canonical-src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" /></td>
+		<td><b>Michele D'Amico (<i>damikael</i>)</b><br>email: michele.damico@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
+	</tr>
+</table>
