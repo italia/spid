@@ -1,15 +1,15 @@
 <img src="https://github.com/italia/spid-graphics/blob/master/spid-logos/spid-logo-b-lb.png" alt="SPID" data-canonical-src="https://github.com/italia/spid-graphics/blob/master/spid-logos/spid-logo-b-lb.png" width="500" height="98" />
 
->**SPID**, il Sistema Pubblico di Identità Digitale, è la soluzione che ti permette di accedere a tutti i servizi online della Pubblica Amministrazione con un'unica Identità Digitale (username e password) utilizzabile da computer, tablet e smartphone.
+**SPID**, il Sistema Pubblico di Identità Digitale, è la soluzione che ti permette di accedere a tutti i servizi online della Pubblica Amministrazione con un'unica Identità Digitale (username e password) utilizzabile da computer, tablet e smartphone.
 
-> **Sito informativo: [https://www.spid.gov.it](https://www.spid.gov.it)**
+> **[Sito informativo www.spid.gov.it](https://www.spid.gov.it)**
 > Il sito è rivolto principalmente ai cittadini e li guida e supporta per l'ottenimento dell'Identità Digitale SPID
 
-> **Sezione SPID AgID: [http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/spid](http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/spid)**
-> ...
+> **[Sezione SPID AgID](http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/spid)**
+> In questa sezione del sito AgID sono disponibili le versioni ufficiali dei regolamenti attuativi, regole tecniche e avvisi
 
-> **Sezione SPID di Developers Italia: [https://developers.italia.it/it/spid](https://developers.italia.it/it/spid)**
-> ...
+> **[Sezione SPID di Developers Italia](https://developers.italia.it/it/spid)**
+> In Developers Italia, sezione SPID, sono presenti le versioni non ufficiali e consolidate di regolamenti attuativi, regole tecniche oltre che guide e risorse applicative ufficiali SPID manutenute da AgID.
 
 
 Il servizio di helpdesk è stato spostato su Github per permettere la condivisione delle soluzioni e discussioni tecniche e consentire alla community di cooperare.<br><br>
