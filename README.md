@@ -9,6 +9,7 @@ Sezione SPID di Developers Italia: [https://developers.italia.it/it/spid](https:
 Il servizio di helpdesk è stato spostato su Github per permettere la condivisione delle soluzioni e discussioni tecniche e consentire alla community di cooperare.<br><br>
 Le persone che rispondono per conto dell'AgID - Agenzia per l'Italia Digitale sono:
 
+| Foto | Dati |
 | ---- | ---- |
 | <img src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" alt="Stefano Arbia" data-canonical-src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" /> | **Stefano Arbia (arbiastefano)**<br>Responsabile progetto SPID<br>Agenzia per l'Italia Digitale |
 | <img src="https://avatars2.githubusercontent.com/u/4085151?s=64&v=4" alt="Umberto Rosini" data-canonical-src="https://avatars2.githubusercontent.com/u/4085151?s=64&v=4" /> | **Umberto Rosini (umbros)**<br>Responsabile tecnico progetto SPID<br>Agenzia per l'Italia Digitale |
