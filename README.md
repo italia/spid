@@ -18,18 +18,18 @@ Le persone che rispondono per conto dell'AgID - Agenzia per l'Italia Digitale so
 <table>
 	<tr>
 		<td><img src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" alt="Stefano Arbia" data-canonical-src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" /></td>
-		<td>**Stefano Arbia (arbiastefano)**<br>Responsabile progetto SPID<br>Agenzia per l'Italia Digitale</td>
+		<td><b>Stefano Arbia (<i>arbiastefano</i>)</b><br>Responsabile progetto SPID<br>Agenzia per l'Italia Digitale</td>
 	</tr>
 	<tr>
 		<td><img src="https://avatars2.githubusercontent.com/u/4085151?s=64&v=4" alt="Umberto Rosini" data-canonical-src="https://avatars2.githubusercontent.com/u/4085151?s=64&v=4" /></td>
-		<td>**Umberto Rosini (umbros)**<br>Responsabile tecnico progetto SPID<br>Agenzia per l'Italia Digitale</td>
+		<td><b>Umberto Rosini (<i>umbros</i>)</b><br>Responsabile tecnico progetto SPID<br>Agenzia per l'Italia Digitale</td>
 	</tr>
 	<tr>
 		<td><img src="https://avatars1.githubusercontent.com/u/3876198?s=64&v=4" alt="Antonio Giovanni Schiavone" data-canonical-src="https://avatars1.githubusercontent.com/u/3876198?s=64&v=4" /></td>
-		<td>**Antonio Giovanni Schiavone (antoniogiovannischiavone)**<br>Collaboratore Agenzia per l'Italia Digitale</td>
+		<td><b>Antonio Giovanni Schiavone (<i>antoniogiovannischiavone</i>)</b><br>Collaboratore Agenzia per l'Italia Digitale</td>
 	</tr>
 	<tr>
 		<td><img src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" alt="Michele D'Amico" data-canonical-src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" /></td>
-		<td>**Michele D'Amico (damikael)**<br>Collaboratore Agenzia per l'Italia Digitale</td>
+		<td><b>Michele D'Amico (<i>damikael</i>)</b><br>Collaboratore Agenzia per l'Italia Digitale</td>
 	</tr>
 </table>
