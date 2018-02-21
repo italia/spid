@@ -6,7 +6,7 @@ Questo strumento è messo a disposizione per il supporto tecnico, di segnalazion
 
 Netiquette:
 - cerca tra le segnalazioni (issue) aperte o chiuse se il tuo quesito è già stato gestito in precedenza;
-- evita ogni riferimento a dati sensibili o informazioni personali e comunicale a supporto.tecnico.spid@agid.gov.it;
+- evita ogni riferimento a dati sensibili o informazioni personali e comunicale a <a href="mailto:spid.tech@agid.gov.it">spid.tech@agid.gov.it</a>;
 - evita ogni riferimento a configurazioni di sicurezza, password, certificati;
 - non fornire informazioni errate, imprecise, incomplete, ambigue o obsolete. In caso di dubbio, verificale prima;
 - tratta gli altri utenti come vorresti essere trattata/o, con rispetto, gentilezza e pazienza;

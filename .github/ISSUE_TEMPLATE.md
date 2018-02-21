@@ -10,14 +10,26 @@ Nella segnalazione dovrà essere riportato, per quanto possibile:
    
 Per scrivere la segnalazione puoi fare uso di markdown (https://guides.github.com/features/mastering-markdown/)
 
-Per inserire una request utilizzare la seguente notazione:
+Per inserire codice utilizzare la seguente notazione:
+
+**XML**
 
 ```xml
 <xml>
   <example>
-	abc
+    abc
   </example>
 </xml>
+```
+
+**JSON**
+
+```json
+{"example": 
+  {
+    "value": "abc"
+  }
+}
 ```
 
 --- TESTO DA ELIMINARE ---
