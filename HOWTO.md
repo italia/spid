@@ -54,7 +54,7 @@ a queste categorie è possibile aggiungere la label **richiesta urgente** se dov
 Se si volesse menzionare un utente utilizzare il simbolo @ seguito dal nickname; esempio: @umbros
 
 #### Soggetti titolati a fornire risposte ufficiali per conto di AgID
-AgID è il soggetto gestore della federazione SPID, le risposte che vengono date dalle seguenti persone:
+AgID è il soggetto gestore della federazione SPID, le risposte che vengono date dalle seguenti persone hanno carattere di ufficialità:
 <table>
 	<tr>
 		<td><img src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" alt="Stefano Arbia" data-canonical-src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" /></td>
@@ -74,6 +74,12 @@ AgID è il soggetto gestore della federazione SPID, le risposte che vengono date
 	</tr>
 </table>
 
-hanno carattere di ufficialità; qualora un altro soggetto appartenente alla community dovesse rispondere correttamente e risolvere la richiesta di supporto o segnalazione pervenuta, una o più persone, tra quelle sopra citate, apporrà un "pollice in alto (like - thumbs up emoji)" per confermarne la validità e procederà a chiudere la issue.
+qualora un altro soggetto appartenente alla community dovesse rispondere correttamente e risolvere la richiesta di supporto o segnalazione pervenuta, una o più persone, tra quelle sopra citate, apporrà un "pollice in alto (like - thumbs up emoji)" per confermarne la validità e procederà a chiudere la issue (per controllare se a mettere il pollice in su è stato uno dei soggetti sopra citati passare con il mouse sopra all'iconcina).
 <br>
 <img src="https://github.com/italia/spid/blob/master/assets/images/howto/spid-howto-img06.png" alt="" data-canonical-src="https://github.com/italia/spid/blob/master/assets/images/howto/spid-howto-img06.png" width="90%" />
+
+### Comunicazione metadata
+Per richiedere il caricamento di un nuovo metadata o un aggiornamento, inviare la richiesta via email a: <a href="mailto:spid.tech@agid.gov.it">spid.tech@agid.gov.it</a>, sempre per email vi verrà inviato riscontro sulla validità dello stesso e sul caricamento presso gli Identity Provider.
+
+### Importante
+Per favore, **non inserire dati ritenuti sensibili e nessun dato relativo a configurazioni di sicurezza, quali certificati o password...**; se si deve inviare un tracciato o richiedere supporto o segnalazione su argomenti che richiedono la comunicazione di dati sensibili o configurazioni di sicurezza, è necessario inviare il tutto via email a [spid.tech@agid.gov.it](mailto:spid.tech@agid.gov.it).
