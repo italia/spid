@@ -1,20 +1,19 @@
 <img src="https://github.com/italia/spid-graphics/blob/master/spid-logos/spid-logo-b-lb.png" alt="SPID" data-canonical-src="https://github.com/italia/spid-graphics/blob/master/spid-logos/spid-logo-b-lb.png" width="500" height="98" />
 
-### Linee guida generali per supporto tecnico
+### Linee guida generali
 
-Questo strumento è messo a disposizione per il supporto tecnico, di segnalazione di errori o proporre questioni sulla implementazione e gestione di sistemi implementati con SPID.
+Questo strumento è messo a disposizione per il supporto tecnico, per la segnalazione di errori o proporre questioni sulla realizzazione e gestione di sistemi implementati con SPID.
 
 Netiquette:
-- cerca tra le segnalazioni (issue) aperte o chiuse se il tuo quesito è già stato gestito in precedenza;
-- evita ogni riferimento a dati sensibili o informazioni personali e comunicale a <a href="mailto:spid.tech@agid.gov.it">spid.tech@agid.gov.it</a>;
-- evita ogni riferimento a configurazioni di sicurezza, password, certificati;
-- non fornire informazioni errate, imprecise, incomplete, ambigue o obsolete. In caso di dubbio, verificale prima;
-- tratta gli altri utenti come vorresti essere trattata/o, con rispetto, gentilezza e pazienza;
-- non incitare o fornire informazioni su attività illegali, immorali o pericolose per chi le fa e per gli altri.
-- non essere intollerante nei confronti di chi commette errori, specie quelli di tipo linguistico o legati all'uso degli strumenti digitali. Se le circostanze lo consentono, fai notare gli errori, non con toni di rimprovero ma con educazione, al solo scopo di aiutare;
-- non usare questo sistema per scopi di promozione commerciale.
+- cerca tra le segnalazioni (issue) aperte o chiuse se il tuo quesito è già stato trattato in precedenza;
+- evita ogni riferimento a dati sensibili, informazioni personali o configurazioni di sicurezza. Questi possono essere comunicati all'email <a href="mailto:spid.tech@agid.gov.it">spid.tech@agid.gov.it</a>;
+- fornisci informazioni precise e complete;
+- tratta gli altri utenti come vorresti essere trattata/o, con rispetto, cortesia e pazienza;
+- non fornire informazioni pericolose che possono essere utili per compiere attività illegali o immorali;
+- sii tollerante nei confronti di chi commette errori, specie quelli di tipo linguistico o legati all'uso degli strumenti digitali;
+- è vietato utilizzare questo sistema per scopi commerciali e pubblicitari.
 
-I soggetti deputati alla gestione del sistema di supporto si riservano di segnalare i contenuti inappropriati e possono essere contattati per:
+I soggetti sottoelencati, deputati alla gestione del sistema di supporto, si riservano di segnalare comportamenti non appropriati a GitHub e di cancellare eventuali commenti inappropriati.
 
 <table>
 	<tr>
