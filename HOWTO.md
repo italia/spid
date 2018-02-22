@@ -58,11 +58,11 @@ AgID è il soggetto gestore della federazione SPID, le risposte che vengono date
 <table>
 	<tr>
 		<td><img src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" alt="Stefano Arbia" data-canonical-src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" /></td>
-		<td><b>Stefano Arbia (<i>arbiastefano</i>)</b><br>Responsabile progetto SPID<br>email: arbia@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
+		<td><b>Stefano Arbia (<i>arbiastefano</i>)</b><br>email: arbia@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
 	</tr>
 	<tr>
 		<td><img src="https://avatars2.githubusercontent.com/u/4085151?s=64&v=4" alt="Umberto Rosini" data-canonical-src="https://avatars2.githubusercontent.com/u/4085151?s=64&v=4" /></td>
-		<td><b>Umberto Rosini (<i>umbros</i>)</b><br>Responsabile tecnico progetto SPID<br>email: rosini@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
+		<td><b>Umberto Rosini (<i>umbros</i>)</b><br>email: rosini@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
 	</tr>
 	<tr>
 		<td><img src="https://avatars1.githubusercontent.com/u/3876198?s=64&v=4" alt="Antonio Giovanni Schiavone" data-canonical-src="https://avatars1.githubusercontent.com/u/3876198?s=64&v=4" /></td>
