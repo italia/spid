@@ -39,4 +39,4 @@ Per utilizzare il supporto tecnico SPID potete fare riferimento alla **[guida ut
 </table>
 
 ## Importante
-Per favore, **non inserire dati ritenuti sensibili e nessun dato relativo a configurazioni di sicurezza, quali certificati o password...**; se si deve inviare un tracciato o richiedere supporto o segnalazione su argomenti che richiedono la comunicazione di dati sensibili o configurazioni di sicurezza, è necessario inviare il tutto via email a [spid.tech@agid.gov.it](mailto:spid.tech@agid.gov.it).
+Per favore, **non inserire dati ritenuti sensibili e nessun dato relativo a configurazioni di sicurezza, quali certificati o password...**; se si deve inviare un tracciato, altri dati sensibili o configurazioni di sicurezza, aprire un ticket su GitHub e dopo inviare i dati via email a [spid.tech@agid.gov.it](mailto:spid.tech@agid.gov.it), specificando nell'oggetto della e-mail il numero del ticket GitHub. L'email può essere usata solamente per inviare allegati, eventuali commenti nel corpo della email verranno ignorati.
