@@ -16,17 +16,18 @@
 
 ## Supporto Tecnico SPID
 
-Il servizio di supporto tecnico SPID è stato spostato su Github per permettere la condivisione delle soluzioni e discussioni tecniche e consentire alla community di cooperare.<br>
-Per utilizzare il supporto tecnico SPID potete fare riferimento alla **[guida utenti](https://github.com/italia/spid/blob/master/HOWTO.md)**. Le persone che rispondono per conto di AgID - Agenzia per l'Italia Digitale sono:
+Il servizio di supporto tecnico SPID utilizza le issue di Github per permettere la condivisione delle soluzioni e discussioni tecniche e consentire alla community di cooperare.<br>
+Per utilizzare il supporto tecnico SPID potete fare riferimento alla **[guida](https://github.com/italia/spid/blob/master/HOWTO.md)**.
+Le persone che rispondono per conto di AgID - Agenzia per l'Italia Digitale sono:
 
 <table>
 	<tr>
 		<td><img src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" alt="Stefano Arbia" data-canonical-src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" /></td>
-		<td><b>Stefano Arbia (<i>arbiastefano</i>)</b><br>email: arbia@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
+		<td><b>Stefano Arbia (<i>arbiastefano</i>)</b><br><i>Responsabile progetto SPID</i><br>email: arbia@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
 	</tr>
 	<tr>
 		<td><img src="https://avatars2.githubusercontent.com/u/4085151?s=64&v=4" alt="Umberto Rosini" data-canonical-src="https://avatars2.githubusercontent.com/u/4085151?s=64&v=4" /></td>
-		<td><b>Umberto Rosini (<i>umbros</i>)</b><br>email: rosini@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
+		<td><b>Umberto Rosini (<i>umbros</i>)</b><br><i>Responsabile tecnico progetto SPID</i><br>email: rosini@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
 	</tr>
 	<tr>
 		<td><img src="https://avatars1.githubusercontent.com/u/3876198?s=64&v=4" alt="Antonio Giovanni Schiavone" data-canonical-src="https://avatars1.githubusercontent.com/u/3876198?s=64&v=4" /></td>
@@ -39,4 +40,4 @@ Per utilizzare il supporto tecnico SPID potete fare riferimento alla **[guida ut
 </table>
 
 ## Importante
-Per favore, **non inserire dati ritenuti sensibili e nessun dato relativo a configurazioni di sicurezza, quali certificati o password...**; se si deve inviare un tracciato o richiedere supporto o segnalazione su argomenti che richiedono la comunicazione di dati sensibili o configurazioni di sicurezza, è necessario inviare il tutto via email a [spid.tech@agid.gov.it](mailto:spid.tech@agid.gov.it).
+Per favore, **non inserire dati ritenuti sensibili e nessun dato relativo a configurazioni di sicurezza, quali certificati o password...***; se si deve inviare un tracciato, altri dati sensibili o configurazioni di sicurezza, aprire una issue su GitHub e, successivamente, inviare i dati via email a [spid.tech@agid.gov.it](mailto:spid.tech@agid.gov.it) specificando nell'oggetto della e-mail il numero della issue GitHub creata. L'email può essere usata solamente per inviare allegati o indicare gli indirizzi per la validazione del servizio ed eventuali istruzioni di collegamento, ulteriori commenti nel corpo della email verranno ignorati.
