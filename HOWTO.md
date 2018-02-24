@@ -1,5 +1,7 @@
 <img src="https://github.com/italia/spid-graphics/blob/master/spid-logos/spid-logo-b-lb.png" alt="SPID" data-canonical-src="https://github.com/italia/spid-graphics/blob/master/spid-logos/spid-logo-b-lb.png" width="500" height="98" />
 
+**NOTA BENE: Questo non è un canale di supporto per i cittadini**, ma è riservato agli sviluppatori e ai gestori di servizi (pubbliche amministrazioni ed enti privati). Per l'assistenza ai cittadini si prega di seguire le indicazioni presenti nel sito [www.spid.gov.it](https://www.spid.gov.it/serve-aiuto).
+
 ## Come inserire una richiesta di supporto o segnalazione
 
 ### Accesso o registrazione
