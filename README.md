@@ -2,13 +2,13 @@
 
 **SPID**, il Sistema Pubblico di Identità Digitale, è la soluzione che ti permette di accedere a tutti i servizi online della Pubblica Amministrazione con un'unica Identità Digitale (username e password) utilizzabile da computer, tablet e smartphone.
 
+**NOTA BENE: Questo non è un canale di supporto per i cittadini**, ma è riservato agli sviluppatori e ai gestori di servizi (pubbliche amministrazioni ed enti privati). Per l'assistenza ai cittadini si prega di seguire le indicazioni presenti nel sito [www.spid.gov.it](https://www.spid.gov.it/serve-aiuto).
+
 > **[Sito informativo www.spid.gov.it](https://www.spid.gov.it)**<br>
 > Il sito è rivolto principalmente ai cittadini e li guida e supporta per l'ottenimento dell'Identità Digitale SPID
 
-
 > **[Sezione SPID AgID](http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/spid)**<br>
 > In questa sezione del sito AgID sono disponibili le versioni ufficiali dei regolamenti attuativi, regole tecniche e avvisi
-
 
 > **[Sezione SPID di Developers Italia](https://developers.italia.it/it/spid)**<br>
 > In Developers Italia, sezione SPID, sono presenti le versioni non ufficiali e consolidate di regolamenti attuativi, regole tecniche oltre che guide e risorse applicative ufficiali SPID manutenute da AgID.
