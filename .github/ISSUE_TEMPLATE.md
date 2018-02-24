@@ -1,5 +1,7 @@
 --- TESTO DA ELIMINARE ---
 
+NOTA BENE: Questo non è un canale di supporto per i cittadini, ma è riservato agli sviluppatori e ai gestori di servizi (pubbliche amministrazioni ed enti privati). Per l'assistenza ai cittadini si prega di seguire le indicazioni presenti nel sito https://www.spid.gov.it/serve-aiuto.
+
 Nella segnalazione dovrà essere riportato, per quanto possibile:
 
    * la pubblica amministrazione o soggetto privato per cui si richiede il supporto;
