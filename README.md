@@ -39,7 +39,7 @@ Le persone che rispondono per conto di AgID - Agenzia per l'Italia Digitale sono
 	</tr>
 	<tr>
 		<td><img src="https://avatars2.githubusercontent.com/u/39305574?s=64&v=4" alt="Paolo Smiraglia" data-canonical-src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" /></td>
-		<td><b>Michele D'Amico (<i>damikael</i>)</b><br>email: paolo.smiraglia@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
+		<td><b>Paolo Smiraglia (<i>psmiraglia-agid</i>)</b><br>email: paolo.smiraglia@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
 	</tr>
 </table>
 
