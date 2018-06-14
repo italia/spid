@@ -30,12 +30,16 @@ Le persone che rispondono per conto di AgID - Agenzia per l'Italia Digitale sono
 		<td><b>Umberto Rosini (<i>umbros</i>)</b><br><i>Responsabile tecnico progetto SPID</i><br>email: rosini@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
 	</tr>
 	<tr>
+		<td><img src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" alt="Michele D'Amico" data-canonical-src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" /></td>
+		<td><b>Michele D'Amico (<i>damikael</i>)</b><br>email: michele.damico@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
+	</tr>
+	<tr>
 		<td><img src="https://avatars1.githubusercontent.com/u/3876198?s=64&v=4" alt="Antonio Giovanni Schiavone" data-canonical-src="https://avatars1.githubusercontent.com/u/3876198?s=64&v=4" /></td>
 		<td><b>Antonio Giovanni Schiavone (<i>antoniogiovannischiavone</i>)</b><br>email: antoniogiovanni.schiavone@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
 	</tr>
 	<tr>
-		<td><img src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" alt="Michele D'Amico" data-canonical-src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" /></td>
-		<td><b>Michele D'Amico (<i>damikael</i>)</b><br>email: michele.damico@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
+		<td><img src="https://avatars2.githubusercontent.com/u/39305574?s=64&v=4" alt="Paolo Smiraglia" data-canonical-src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" /></td>
+		<td><b>Michele D'Amico (<i>damikael</i>)</b><br>email: paolo.smiraglia@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
 	</tr>
 </table>
 
