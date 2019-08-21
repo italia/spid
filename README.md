@@ -34,6 +34,10 @@ Le persone che rispondono per conto di AgID - Agenzia per l'Italia Digitale sono
 		<td><b>Michele D'Amico (<i>damikael</i>)</b><br>email: michele.damico@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
 	</tr>
 	<tr>
+		<td><img src="https://avatars1.githubusercontent.com/u/1493024?s=460&v=4" alt="Walter Arrighetti" data-canonical-src="https://avatars1.githubusercontent.com/u/1493024?s=460&v=4" /></td>
+		<td><b>Walter Arrighetti (<i>walter-arrighetti</i>)</b><br>email: walter.arrighetti@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
+	</tr>
+	<tr>
 		<td><img src="https://avatars1.githubusercontent.com/u/3876198?s=64&v=4" alt="Antonio Giovanni Schiavone" data-canonical-src="https://avatars1.githubusercontent.com/u/3876198?s=64&v=4" /></td>
 		<td><b>Antonio Giovanni Schiavone (<i>antoniogiovannischiavone</i>)</b><br>email: antoniogiovanni.schiavone@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
 	</tr>
