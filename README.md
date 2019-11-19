@@ -1,5 +1,7 @@
 <img src="https://github.com/italia/spid-graphics/blob/master/spid-logos/spid-logo-b-lb.png" alt="SPID" data-canonical-src="https://github.com/italia/spid-graphics/blob/master/spid-logos/spid-logo-b-lb.png" width="500" height="98" />
 
+**ATTENZIONE** I fornitori di servizi che intendono aggiornare l'elenco dei servizi accessibili tramite SPID e i soggetti che vogliono entrare nella federazione SPID **non devono utilizzare** questo canale ma scrivere a [spid.tech@agid.gov.it](mailto:spid.tech@agid.gov.it). Solo le richieste presentate entro il 19 novembre 2019 saranno gestite.
+
 **SPID**, il Sistema Pubblico di Identità Digitale, è la soluzione che ti permette di accedere a tutti i servizi online della Pubblica Amministrazione con un'unica Identità Digitale (username e password) utilizzabile da computer, tablet e smartphone.
 
 **NOTA BENE: Questo non è un canale di supporto per i cittadini**, ma è riservato agli sviluppatori e ai gestori di servizi (pubbliche amministrazioni ed enti privati). Per l'assistenza ai cittadini si prega di seguire le indicazioni presenti nel sito [www.spid.gov.it](https://www.spid.gov.it/serve-aiuto).
@@ -33,11 +35,7 @@ Le persone che rispondono per conto di AgID - Agenzia per l'Italia Digitale sono
 		<td><img src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" alt="Michele D'Amico" data-canonical-src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" /></td>
 		<td><b>Michele D'Amico (<i>damikael</i>)</b><br>email: michele.damico@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
 	</tr>
-	<tr>
-		<td><img src="https://avatars1.githubusercontent.com/u/3876198?s=64&v=4" alt="Antonio Giovanni Schiavone" data-canonical-src="https://avatars1.githubusercontent.com/u/3876198?s=64&v=4" /></td>
-		<td><b>Antonio Giovanni Schiavone (<i>antoniogiovannischiavone</i>)</b><br>email: antoniogiovanni.schiavone@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
-	</tr>
-	<tr>
+		<tr>
 		<td><img src="https://avatars1.githubusercontent.com/u/1493024?s=64&v=4" alt="Walter Arrighetti" data-canonical-src="https://avatars1.githubusercontent.com/u/1493024?s=64&v=4" /></td>
 		<td><b>Walter Arrighetti (<i>walter-arrighetti</i>)</b><br>email: walter.arrighetti@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
 	</tr>
