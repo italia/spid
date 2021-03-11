@@ -20,7 +20,7 @@
 
 Il servizio di supporto tecnico SPID utilizza le issue di Github per permettere la condivisione delle soluzioni e discussioni tecniche e consentire alla community di cooperare.<br>
 Per utilizzare il supporto tecnico SPID potete fare riferimento alla **[guida](https://github.com/italia/spid/blob/master/HOWTO.md)**.
-Le persone che rispondono per conto di AgID - Agenzia per l'Italia Digitale sono:
+Le persone che possono rispondere per conto di AgID - Agenzia per l'Italia Digitale sono:
 
 <table>
 	<tr>
