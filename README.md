@@ -29,7 +29,7 @@ Le persone che possono rispondere per conto di AgID - Agenzia per l'Italia Digit
 	</tr>
 	<tr>
 		<td></td>
-		<td><b>Antonio Giovanni Colella</b><br>email: colella@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
+		<td><b>Antonio Giovanni Colella (<i>agcolella</i>)</b><br>email: colella@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
 	</tr>
 	<tr>
 		<td><img src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" alt="Michele D'Amico" data-canonical-src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" /></td>
