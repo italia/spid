@@ -27,24 +27,14 @@ Le persone che rispondono per conto di AgID - Agenzia per l'Italia Digitale sono
 		<td><img src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" alt="Stefano Arbia" data-canonical-src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" /></td>
 		<td><b>Stefano Arbia (<i>arbiastefano</i>)</b><br><i>Responsabile progetto SPID</i><br>email: arbia@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
 	</tr>
-	<!-- tr>
-		<td><img src="https://avatars2.githubusercontent.com/u/4085151?s=64&v=4" alt="Umberto Rosini" data-canonical-src="https://avatars2.githubusercontent.com/u/4085151?s=64&v=4" /></td>
-		<td><b>Umberto Rosini (<i>umbros</i>)</b><br><i>Responsabile tecnico progetto SPID</i><br>email: rosini@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
-	</tr -->
+	<tr>
+		<td></td>
+		<td><b>Antonio Giovanni Colella</b><br>email: colella@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
+	</tr>
 	<tr>
 		<td><img src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" alt="Michele D'Amico" data-canonical-src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" /></td>
 		<td><b>Michele D'Amico (<i>damikael</i>)</b><br>email: michele.damico@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
 	</tr>
-		<tr>
-		<td><img src="https://avatars1.githubusercontent.com/u/1493024?s=64&v=4" alt="Walter Arrighetti" data-canonical-src="https://avatars1.githubusercontent.com/u/1493024?s=64&v=4" /></td>
-		<td><b>Walter Arrighetti (<i>walter-arrighetti</i>)</b><br>email: walter.arrighetti@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
-	</tr>
-	<!--
-	<tr>
-		<td><img src="https://avatars2.githubusercontent.com/u/39305574?s=64&v=4" alt="Paolo Smiraglia" data-canonical-src="https://avatars2.githubusercontent.com/u/31276401?s=64&v=4" /></td>
-		<td><b>Paolo Smiraglia (<i>psmiraglia-agid</i>)</b><br>email: paolo.smiraglia@agid.gov.it<br>Collaboratore Agenzia per l'Italia Digitale</td>
-	</tr>
--->
 </table>
 
 ## Importante
