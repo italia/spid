@@ -23,10 +23,10 @@ Per utilizzare il supporto tecnico SPID potete fare riferimento alla **[guida](h
 Le persone che possono rispondere per conto di AgID - Agenzia per l'Italia Digitale sono:
 
 <table>
-	<tr>
+	<!--tr>
 		<td><img src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" alt="Stefano Arbia" data-canonical-src="https://avatars0.githubusercontent.com/u/23704006?s=64&v=4" /></td>
 		<td><b>Stefano Arbia (<i>arbiastefano</i>)</b><br><i>Responsabile progetto SPID</i><br>email: arbia@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
-	</tr>
+	</tr-->
 	<tr>
 		<td></td>
 		<td><b>Antonio Giovanni Colella (<i>agcolella</i>)</b><br>email: colella@agid.gov.it<br>Agenzia per l'Italia Digitale</td>
